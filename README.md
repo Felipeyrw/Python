@@ -4,10 +4,10 @@ I used to study python since I was 15 years old, my repository include a big par
 ## Exercises
 The exercises includes tuple, functions, data structure, string split, list exercises, for, while, if/elif/else and dictionary exercises
 
-## first folder
+## Libs_exercises
 
 In the first folder, I trained the exercises of time, list compreehension, more dictionary exercises, functions, panda lib, data treatment, random password generator and qrcode checkpoint.
 
-# Exercicio Desafio Pandas - mini projeto
+#Pandas_little_project
 
-On this second one, I produced a automation of 
+On this second one, I produced a automation of a data analysis problem to an enterprise
